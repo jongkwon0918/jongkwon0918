@@ -2,9 +2,8 @@
 > **Java Backend Developer**를 꿈꾸며, 단순한 기능 구현을 넘어 **안정적이고 효율적인 시스템**을 고민합니다.
 
 <div align="center">
-  <!-- 깃허브 스탯 카드: 깔끔한 디자인 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jongkwon0918&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongkwon0918&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jongkwon0918&show_icons=true&theme=agent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongkwon0918&layout=compact&theme=agent" />
 </div>
 
 ---
