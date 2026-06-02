@@ -1,10 +1,5 @@
-# 👋 Hello, I'm Jongkwon Park!
-> **Java Backend Developer**를 꿈꾸며, 단순한 기능 구현을 넘어 **안정적이고 효율적인 시스템**을 고민합니다.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jongkwon0918&show_icons=true&theme=agent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongkwon0918&layout=compact&theme=agent" />
-</div>
+# 👋 안녕하십니까! 저는 박종권 입니다.
+> **개발자**를 꿈꾸며, 단순한 기능 구현을 넘어 **안정적이고 효율적인 시스템**을 고민합니다.
 
 ---
 
