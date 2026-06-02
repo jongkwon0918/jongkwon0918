@@ -27,7 +27,7 @@
 
 ---
 
-### 📂 Main Projects
+### Main Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[JAVAJAVA]** | 실시간 경매 기반 중고거래 웹 플랫폼 | Java, Spring Boot, JPA, WebSocket .. |
@@ -36,12 +36,12 @@
 
 ---
 
-### ✍️ Blog & Contact
+### Blog & Contact
 - **Velog**: https://velog.io/@whdrnjs0918
 - **Email**: whdrnjs0918@naver.com, dog49226@gmail.com
 - **Keywords**: #CleanCode  #ConstantLearning
 
 ---
 
-### 📈 Contribution Graph
+### Contribution Graph
 ![Jongkwon's GitHub Contribution Grid Snap](https://github-readme-activity-graph.vercel.app/graph?username=jongkwon0918&theme=github-compact)
