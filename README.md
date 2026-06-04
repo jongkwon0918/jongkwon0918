@@ -22,6 +22,16 @@
 
 ---
 
+### Certifications
+
+**정보처리기사**
+
+**SQLD**
+
+**ADsP**
+
+---
+
 ### Main Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
