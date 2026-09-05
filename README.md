@@ -24,9 +24,9 @@
 ### Main Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[JAVAJAVA]** | 실시간 경매 기반 중고거래 웹 플랫폼 | Java, Spring Boot, JPA, WebSocket .. |
-| **[CaloricCoach]** | AI 기반 모바일 헬스케어 애플리케이션 | Java, Flask, YOLOv5 / YOLOv8, Firebase .. |
-| **[Clippy]** | AI 기반 미팅 요약 및 팀 작업 관리 앱 | Java, Google AI Studio, Spring .. |
+| **JAVAJAVA** | 실시간 경매 기반 중고거래 웹 플랫폼 | Java, Spring Boot, JPA, WebSocket .. |
+| **CaloricCoach** | AI 기반 모바일 헬스케어 애플리케이션 | Java, Flask, YOLOv5 / YOLOv8, Firebase .. |
+| **ZeroRisk** | KIS 모의투자 웹 플렛폼 | Java, Spring .. |
 
 ---
 
@@ -44,3 +44,63 @@
 | SQLD | 한국데이터산업진흥원 |
 | ADsP | 한국데이터산업진흥원 |
 | 토익스피킹 | YBM |
+
+
+### 🚀 Main Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**JAVAJAVA**
+실시간 경매 기반 중고거래 웹 플랫폼
+
+`Java` `Spring Boot` `JPA` `WebSocket` `Redis` `MySQL`
+
+[🔗 Repo](링크)
+
+</td>
+<td width="33%" valign="top">
+
+**CaloricCoach**
+AI 기반 모바일 헬스케어 애플리케이션
+
+`Java` `Flask` `YOLOv5/v8` `Firebase`
+
+[🔗 Repo](링크)
+
+</td>
+<td width="33%" valign="top">
+
+**ZeroRisk**
+KIS 모의투자 웹 플랫폼
+
+`Java` `Spring Boot` `Spring Security` `Oracle` `JPA` `Redis` `Spring Batch` `React` `TypeScript` `AWS EC2` `Docker` `Nginx` `GitHub Actions` `KIS Open API`
+
+[🔗 Repo](링크)
+
+</td>
+</tr>
+</table>
+
+
+<td width="33%" valign="top">
+
+**ZeroRisk**
+KIS 모의투자 웹 플랫폼
+
+`Java` `Spring Boot` `React` `Redis` `AWS`
+
+<details>
+<summary>기술 스택 더보기</summary>
+
+**Backend**: Spring Security(JWT/OAuth2), Oracle, JPA, Spring Batch/Retry
+**Frontend**: TypeScript, Tailwind CSS
+**Infra**: EC2, Docker, Nginx, GitHub Actions
+**외부 API**: 한국투자증권(KIS) Open API
+
+</details>
+
+[🔗 Repo](링크)
+
+</td>
