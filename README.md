@@ -25,108 +25,109 @@
 
 <table width="100%">
   <tr>
-    <td style="padding: 40px;">
-      <div style="margin-bottom: 24px;">
-        <a href="https://github.com/ZeroRisk-Project/ZeroRisk_BackEnd.git" style="font-size: 30px; font-weight: bold;">
-          ZeroRisk
-        </a>
-        <span style="color: #666; font-size: 16px;">(2026.06 ~)</span>
-      </div>
+    <td>
+
+<h2>
+  <a href="https://github.com/ZeroRisk-Project/ZeroRisk_BackEnd.git">ZeroRisk</a>
+  <sub>(2026.06 ~)</sub>
+</h2>
+
+<p>
+  KIS 모의투자 웹 플랫폼
+</p>
+
+<br>
+
+<p>
+  <code>Java</code>
+  <code>Spring Boot</code>
+  <code>Spring Security</code>
+  <code>Oracle</code>
+  <code>JPA</code>
+  <code>Redis</code>
+  <code>Spring Batch</code>
+  <code>React</code>
+  <code>TypeScript</code>
+  <code>AWS EC2</code>
+  <code>Docker</code>
+  <code>Nginx</code>
+  <code>GitHub Actions</code>
+  <code>KIS Open API</code>
+</p>
 
 ```
-  <blockquote style="margin: 0 0 24px 0;">
-    <p style="margin: 0; font-size: 16px;">
-      KIS 모의투자 웹 플랫폼
-    </p>
-  </blockquote>
-
-  <div style="line-height: 2;">
-    <code>Java</code>
-    <code>Spring Boot</code>
-    <code>Spring Security</code>
-    <code>Oracle</code>
-    <code>JPA</code>
-    <code>Redis</code>
-    <code>Spring Batch</code>
-    <code>React</code>
-    <code>TypeScript</code>
-    <code>AWS EC2</code>
-    <code>Docker</code>
-    <code>Nginx</code>
-    <code>GitHub Actions</code>
-    <code>KIS Open API</code>
-  </div>
 </td>
 ```
 
   </tr>
 
   <tr>
-    <td style="padding: 40px;">
-      <div style="margin-bottom: 24px;">
-        <a href="https://github.com/jongkwon0918/JAVAJAVA_BackEnd.git" style="font-size: 30px; font-weight: bold;">
-          JAVAJAVA
-        </a>
-        <span style="color: #666; font-size: 16px;">(2026.03 ~ 2026.05)</span>
-      </div>
+    <td>
+
+<h2>
+  <a href="https://github.com/jongkwon0918/JAVAJAVA_BackEnd.git">JAVAJAVA</a>
+  <sub>(2026.03 ~ 2026.05)</sub>
+</h2>
+
+<p>
+  실시간 경매 기반 중고거래 웹 플랫폼
+</p>
+
+<br>
+
+<p>
+  <code>Java</code>
+  <code>Spring Boot</code>
+  <code>JPA</code>
+  <code>WebSocket</code>
+  <code>Redis</code>
+  <code>MySQL</code>
+</p>
+
+<br>
+
+<p>
+  <strong>Achievements</strong>
+</p>
+
+<ul>
+  <li>K-디지털 트레이닝 JAVA 부트캠프 <strong>은상</strong> 수상</li>
+</ul>
 
 ```
-  <blockquote style="margin: 0 0 24px 0;">
-    <p style="margin: 0; font-size: 16px;">
-      실시간 경매 기반 중고거래 웹 플랫폼
-    </p>
-  </blockquote>
-
-  <div style="margin-bottom: 28px; line-height: 2;">
-    <code>Java</code>
-    <code>Spring Boot</code>
-    <code>JPA</code>
-    <code>WebSocket</code>
-    <code>Redis</code>
-    <code>MySQL</code>
-  </div>
-
-  <div style="margin-top: 28px;">
-    <b style="font-size: 17px;">Achievements</b>
-
-    <ul style="margin-top: 12px; margin-bottom: 0;">
-      <li style="font-size: 15px;">
-        K-디지털 트레이닝 JAVA 부트캠프 <b>은상</b> 수상
-      </li>
-    </ul>
-  </div>
 </td>
 ```
 
   </tr>
 
   <tr>
-    <td style="padding: 40px;">
-      <div style="margin-bottom: 24px;">
-        <a href="https://github.com/jongkwon0918/Caloric-Coach.git" style="font-size: 30px; font-weight: bold;">
-          CaloricCoach
-        </a>
-        <span style="color: #666; font-size: 16px;">(2024.11 ~ 2025.06)</span>
-      </div>
+    <td>
+
+<h2>
+  <a href="https://github.com/jongkwon0918/Caloric-Coach.git">CaloricCoach</a>
+  <sub>(2024.11 ~ 2025.06)</sub>
+</h2>
+
+<p>
+  AI 기반 모바일 헬스케어 애플리케이션
+</p>
+
+<br>
+
+<p>
+  <code>Java</code>
+  <code>Flask</code>
+  <code>YOLOv5/v8</code>
+  <code>Firebase</code>
+</p>
 
 ```
-  <blockquote style="margin: 0 0 24px 0;">
-    <p style="margin: 0; font-size: 16px;">
-      AI 기반 모바일 헬스케어 애플리케이션
-    </p>
-  </blockquote>
-
-  <div style="line-height: 2;">
-    <code>Java</code>
-    <code>Flask</code>
-    <code>YOLOv5/v8</code>
-    <code>Firebase</code>
-  </div>
 </td>
 ```
 
   </tr>
 </table>
+
 
 
 ---
