@@ -41,7 +41,6 @@
 
 ---
 
-### Blog & Contact
-[![Velog](https://img.shields.io/badge/Velog-FFFFFF?style=for-the-badge&logo=velog&logoColor=20C997&labelColor=F2F2F2)](https://velog.io/@whdrnjs0918)
-[![Gmail](https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=F2F2F2)](mailto:dog49226@gmail.com)
-[![Naver](https://img.shields.io/badge/Naver-FFFFFF?style=for-the-badge&logo=naver&logoColor=03C75A&labelColor=F2F2F2)](mailto:whdrnjs0918@naver.com)
+| Velog | Gmail | Naver |
+|:---:|:---:|:---:|
+| [<img src="https://velog.io/favicon.ico" width="30"/><br>**Velog**](https://velog.io/@whdrnjs0918) | [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/><br>**Gmail**](mailto:dog49226@gmail.com) | [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="30"/><br>**Naver**](mailto:whdrnjs0918@naver.com) |
