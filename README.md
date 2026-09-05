@@ -48,9 +48,40 @@
 
 ### 🚀 Main Projects
 
-| | | |
-|:---:|:---:|:---:|
-| **JAVAJAVA** | **CaloricCoach** | **ZeroRisk** |
-| 실시간 경매 기반 중고거래 웹 플랫폼 | AI 기반 모바일 헬스케어 애플리케이션 | KIS 모의투자 웹 플랫폼 |
-| `Java` `Spring Boot` `JPA` `WebSocket` `Redis` `MySQL` | `Java` `Flask` `YOLOv5/v8` `Firebase` | `Java` `Spring Boot` `Spring Security` `Oracle` `JPA` `Redis` `Spring Batch` `React` `TypeScript` `AWS EC2` `Docker` `Nginx` `GitHub Actions` `KIS Open API` |
-| [🔗 Repo](링크) | [🔗 Repo](링크) | [🔗 Repo](링크) |
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**JAVAJAVA**
+***
+실시간 경매 기반 중고거래 웹 플랫폼
+
+`Java` `Spring Boot` `JPA` `WebSocket` `Redis` `MySQL`
+
+[🔗 Repo](링크)
+
+</td>
+<td width="33%" valign="top">
+
+**CaloricCoach**
+***
+AI 기반 모바일 헬스케어 애플리케이션
+
+`Java` `Flask` `YOLOv5/v8` `Firebase`
+
+[🔗 Repo](링크)
+
+</td>
+<td width="33%" valign="top">
+
+**ZeroRisk**
+***
+KIS 모의투자 웹 플랫폼
+
+`Java` `Spring Boot` `Spring Security` `Oracle` `JPA` `Redis` `Spring Batch` `React` `TypeScript` `AWS EC2` `Docker` `Nginx` `GitHub Actions` `KIS Open API`
+
+[🔗 Repo](링크)
+
+</td>
+</tr>
+</table>
