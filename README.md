@@ -22,6 +22,7 @@
 ---
 
 ### Main Projects
+
 <table width="100%">
   <tr>
     <td style="padding: 32px;">
@@ -34,6 +35,9 @@
       </div>
     </td>
   </tr>
+</table>
+
+<table width="100%">
   <tr>
     <td style="padding: 32px;">
       <div style="margin-bottom: 20px;">
@@ -51,6 +55,9 @@
       </div>
     </td>
   </tr>
+</table>
+
+<table width="100%">
   <tr>
     <td style="padding: 32px;">
       <div style="margin-bottom: 20px;">
