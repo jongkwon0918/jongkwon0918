@@ -45,14 +45,13 @@
 | ADsP | 한국데이터산업진흥원 |
 | 토익스피킹 | YBM |
 
-
 ### 🚀 Main Projects
 
 <table>
   <tr>
-    <th width="33%" align="center"><b>JAVAJAVA</b></th>
-    <th width="33%" align="center"><b>CaloricCoach</b></th>
-    <th width="33%" align="center"><b>ZeroRisk</b></th>
+    <td width="33%" align="center"><b>JAVAJAVA</b></td>
+    <td width="33%" align="center"><b>CaloricCoach</b></td>
+    <td width="33%" align="center"><b>ZeroRisk</b></td>
   </tr>
   <tr>
     <td valign="top">
