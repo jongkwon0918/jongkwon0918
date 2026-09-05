@@ -21,16 +21,6 @@
 
 ---
 
-### Certifications
-| 자격증 | 발급기관 |
-|:---:|:---:|
-| 정보처리기사 | 한국산업인력공단 |
-| SQLD | 한국데이터산업진흥원 |
-| ADsP | 한국데이터산업진흥원 |
-| 토익스피킹 | YBM |
-
----
-
 ### Main Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -44,3 +34,13 @@
 | Velog | Gmail | Naver |
 |:---:|:---:|:---:|
 | [<img src="https://velog.io/favicon.ico" width="30"/>](https://velog.io/@whdrnjs0918) | [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>](mailto:dog49226@gmail.com) | [<img src="https://www.google.com/s2/favicons?domain=naver.com&sz=64" width="30"/>](mailto:whdrnjs0918@naver.com) |
+
+---
+
+### Certifications
+| 자격증 | 발급기관 |
+|:---:|:---:|
+| 정보처리기사 | 한국산업인력공단 |
+| SQLD | 한국데이터산업진흥원 |
+| ADsP | 한국데이터산업진흥원 |
+| 토익스피킹 | YBM |
