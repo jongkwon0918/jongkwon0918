@@ -1,5 +1,5 @@
-# 👋 안녕하십니까! 저는 박종권 입니다.
-> **개발자**를 꿈꾸며, 단순한 기능 구현을 넘어 **안정적이고 효율적인 시스템**을 고민합니다.
+# 안녕하십니까! 저는 박종권 입니다.
+> **백엔드 개발자**를 꿈꾸며, 기능 구현을 넘어 **안정적이고 효율적인 시스템**을 고민하고 있습니다.
 
 ---
 
@@ -18,6 +18,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white)
+
 ---
 
 ### Certifications
