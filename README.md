@@ -50,48 +50,32 @@
 
 <table>
 <tr>
-<td width="12%"><b>Project</b></td>
-<td width="29.3%" align="center"><b>JAVAJAVA</b></td>
-<td width="29.3%" align="center"><b>CaloricCoach</b></td>
-<td width="29.3%" align="center"><b>ZeroRisk</b></td>
-</tr>
-<tr>
-<td><b>Description</b></td>
-<td>실시간 경매 기반<br>중고거래 웹 플랫폼</td>
-<td>AI 기반 모바일<br>헬스케어 애플리케이션</td>
-<td>KIS 모의투자<br>웹 플랫폼</td>
-</tr>
-<tr>
-<td valign="top"><b>Tech Stack</b></td>
-<td valign="top">
+<td width="33%" valign="top">
+
+**JAVAJAVA**
+실시간 경매 기반 중고거래 웹 플랫폼
 
 `Java` `Spring Boot` `JPA` `WebSocket` `Redis` `MySQL`
 
+[🔗 Repo](링크)
+
 </td>
-<td valign="top">
+<td width="33%" valign="top">
+
+**CaloricCoach**
+AI 기반 모바일 헬스케어 애플리케이션
 
 `Java` `Flask` `YOLOv5/v8` `Firebase`
 
+[🔗 Repo](링크)
+
 </td>
-<td valign="top">
+<td width="33%" valign="top">
+
+**ZeroRisk**
+KIS 모의투자 웹 플랫폼
 
 `Java` `Spring Boot` `Spring Security` `Oracle` `JPA` `Redis` `Spring Batch` `React` `TypeScript` `AWS EC2` `Docker` `Nginx` `GitHub Actions` `KIS Open API`
-
-</td>
-</tr>
-<tr>
-<td><b>Link</b></td>
-<td align="center">
-
-[🔗 Repo](링크)
-
-</td>
-<td align="center">
-
-[🔗 Repo](링크)
-
-</td>
-<td align="center">
 
 [🔗 Repo](링크)
 
