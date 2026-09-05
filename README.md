@@ -65,9 +65,9 @@
 
 ---
 
-<table>
+<table border="0" cellspacing="0" cellpadding="20" width="100%">
 <tr>
-<td valign="top" width="33%">
+<td align="center" valign="top" width="33%">
 
 ### Tech Stack
 #### Backend
@@ -86,7 +86,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white)
 
 </td>
-<td valign="top" width="33%">
+<td align="center" valign="top" width="33%">
 
 ### Blog & Contact
 | Velog | Gmail | Naver |
@@ -94,7 +94,7 @@
 | [<img src="https://velog.io/favicon.ico" width="30"/>](https://velog.io/@whdrnjs0918) | [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>](mailto:dog49226@gmail.com) | [<img src="https://www.google.com/s2/favicons?domain=naver.com&sz=64" width="30"/>](mailto:whdrnjs0918@naver.com) |
 
 </td>
-<td valign="top" width="33%">
+<td align="center" valign="top" width="33%">
 
 ### Certifications
 | 자격증 | 발급기관 |
