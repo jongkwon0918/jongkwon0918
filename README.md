@@ -7,49 +7,46 @@
 
 <table width="100%">
   <tr>
-    <td style="padding: 32px;">
-      <div style="margin-bottom: 20px;">
-        <a href="https://github.com/ZeroRisk-Project/ZeroRisk_BackEnd.git" style="font-size: 32px; font-weight: bold;">ZeroRisk</a> <span style="color: #666;">(2026.06 ~)</span>
-      </div>
-      <blockquote style="margin: 0 0 20px 0;"><p style="margin: 0; line-height: 1.6;">KIS 모의투자 웹 플랫폼</p></blockquote>
-      <div>
-        <code>Java</code> <code>Spring Boot</code> <code>Spring Security</code> <code>Oracle</code> <code>JPA</code> <code>Redis</code> <code>Spring Batch</code> <code>React</code> <code>TypeScript</code> <code>AWS EC2</code> <code>Docker</code> <code>Nginx</code> <code>GitHub Actions</code> <code>KIS Open API</code>
-      </div>
-    </td>
+    <td>
+
+### [ZeroRisk](https://github.com/ZeroRisk-Project/ZeroRisk_BackEnd.git) <sub>(2026.06 ~)</sub>
+
+> KIS 모의투자 웹 플랫폼
+
+`Java` `Spring Boot` `Spring Security` `Oracle` `JPA` `Redis` `Spring Batch` `React` `TypeScript` `AWS EC2` `Docker` `Nginx` `GitHub Actions` `KIS Open API`
+
+</td>
   </tr>
 </table>
 
 <table width="100%">
   <tr>
-    <td style="padding: 32px;">
-      <div style="margin-bottom: 20px;">
-        <a href="https://github.com/jongkwon0918/JAVAJAVA_BackEnd.git" style="font-size: 32px; font-weight: bold;">JAVAJAVA</a> <span style="color: #666;">(2026.03 ~ 2026.05)</span>
-      </div>
-      <blockquote style="margin: 0 0 20px 0;"><p style="margin: 0; line-height: 1.6;">실시간 경매 기반 중고거래 웹 플랫폼</p></blockquote>
-      <div style="margin-bottom: 24px;">
-        <code>Java</code> <code>Spring Boot</code> <code>JPA</code> <code>WebSocket</code> <code>Redis</code> <code>MySQL</code>
-      </div>
-      <div>
-        <b style="font-size: 16px;">Achievements</b>
-        <ul style="margin-top: 12px; margin-bottom: 0; padding-left: 20px; line-height: 1.6;">
-          <li>K-디지털 트레이닝 JAVA 부트캠프 <b>은상</b> 수상</li>
-        </ul>
-      </div>
-    </td>
+    <td>
+
+### [JAVAJAVA](https://github.com/jongkwon0918/JAVAJAVA_BackEnd.git) <sub>(2026.03 ~ 2026.05)</sub>
+
+> 실시간 경매 기반 중고거래 웹 플랫폼
+
+`Java` `Spring Boot` `JPA` `WebSocket` `Redis` `MySQL`
+
+**Achievements**
+- K-디지털 트레이닝 JAVA 부트캠프 **은상** 수상
+
+</td>
   </tr>
 </table>
 
 <table width="100%">
   <tr>
-    <td style="padding: 32px;">
-      <div style="margin-bottom: 20px;">
-        <a href="https://github.com/jongkwon0918/Caloric-Coach.git" style="font-size: 32px; font-weight: bold;">CaloricCoach</a> <span style="color: #666;">(2024.11 ~ 2025.06)</span>
-      </div>
-      <blockquote style="margin: 0 0 20px 0;"><p style="margin: 0; line-height: 1.6;">AI 기반 모바일 헬스케어 애플리케이션</p></blockquote>
-      <div>
-        <code>Java</code> <code>Flask</code> <code>YOLOv5/v8</code> <code>Firebase</code>
-      </div>
-    </td>
+    <td>
+
+### [CaloricCoach](https://github.com/jongkwon0918/Caloric-Coach.git) <sub>(2024.11 ~ 2025.06)</sub>
+
+> AI 기반 모바일 헬스케어 애플리케이션
+
+`Java` `Flask` `YOLOv5/v8` `Firebase`
+
+</td>
   </tr>
 </table>
 
