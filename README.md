@@ -25,41 +25,95 @@
 
 <table width="100%">
   <tr>
-    <td style="padding: 36px;">
-      <div style="margin-bottom: 24px;">
-        <a href="https://github.com/ZeroRisk-Project/ZeroRisk_BackEnd.git" style="font-size: 26px; font-weight: bold;">ZeroRisk</a> <span style="color: #666; font-size: 16px;">(2026.06 ~)</span>
+    <td style="padding: 40px 48px;">
+      <div style="margin-bottom: 28px;">
+        <a href="https://github.com/ZeroRisk-Project/ZeroRisk_BackEnd.git" style="font-size: 30px; font-weight: bold;">
+          ZeroRisk
+        </a>
+        <span style="color: #666; font-size: 16px;">(2026.06 ~)</span>
       </div>
-      <blockquote style="margin: 0 0 24px 0;"><p style="margin: 0; font-size: 15px;">KIS 모의투자 웹 플랫폼</p></blockquote>
-      <div style="margin-top: 24px;">
-        <code>Java</code> <code>Spring Boot</code> <code>Spring Security</code> <code>Oracle</code> <code>JPA</code> <code>Redis</code> <code>Spring Batch</code> <code>React</code> <code>TypeScript</code> <code>AWS EC2</code> <code>Docker</code> <code>Nginx</code> <code>GitHub Actions</code> <code>KIS Open API</code>
+
+      <blockquote style="margin: 0 0 28px 0; padding-left: 16px;">
+        <p style="margin: 0; font-size: 16px;">
+          KIS 모의투자 웹 플랫폼
+        </p>
+      </blockquote>
+
+      <div style="margin-top: 28px; line-height: 2.2;">
+        <code>Java</code>
+        <code>Spring Boot</code>
+        <code>Spring Security</code>
+        <code>Oracle</code>
+        <code>JPA</code>
+        <code>Redis</code>
+        <code>Spring Batch</code>
+        <code>React</code>
+        <code>TypeScript</code>
+        <code>AWS EC2</code>
+        <code>Docker</code>
+        <code>Nginx</code>
+        <code>GitHub Actions</code>
+        <code>KIS Open API</code>
       </div>
     </td>
   </tr>
+
   <tr>
-    <td style="padding: 36px;">
-      <div style="margin-bottom: 24px;">
-        <a href="https://github.com/jongkwon0918/JAVAJAVA_BackEnd.git" style="font-size: 26px; font-weight: bold;">JAVAJAVA</a> <span style="color: #666; font-size: 16px;">(2026.03 ~ 2026.05)</span>
-      </div>
-      <blockquote style="margin: 0 0 24px 0;"><p style="margin: 0; font-size: 15px;">실시간 경매 기반 중고거래 웹 플랫폼</p></blockquote>
+    <td style="padding: 40px 48px;">
       <div style="margin-bottom: 28px;">
-        <code>Java</code> <code>Spring Boot</code> <code>JPA</code> <code>WebSocket</code> <code>Redis</code> <code>MySQL</code>
+        <a href="https://github.com/jongkwon0918/JAVAJAVA_BackEnd.git" style="font-size: 30px; font-weight: bold;">
+          JAVAJAVA
+        </a>
+        <span style="color: #666; font-size: 16px;">(2026.03 ~ 2026.05)</span>
       </div>
-      <div style="margin-top: 28px;">
-        <b style="font-size: 17px;">Achievements</b>
-        <ul style="margin-top: 12px; margin-bottom: 0; padding-left: 20px;">
-          <li style="font-size: 15px;">K-디지털 트레이닝 JAVA 부트캠프 <b>은상</b> 수상</li>
+
+      <blockquote style="margin: 0 0 28px 0; padding-left: 16px;">
+        <p style="margin: 0; font-size: 16px;">
+          실시간 경매 기반 중고거래 웹 플랫폼
+        </p>
+      </blockquote>
+
+      <div style="margin-top: 28px; margin-bottom: 32px; line-height: 2.2;">
+        <code>Java</code>
+        <code>Spring Boot</code>
+        <code>JPA</code>
+        <code>WebSocket</code>
+        <code>Redis</code>
+        <code>MySQL</code>
+      </div>
+
+      <div style="margin-top: 32px;">
+        <b style="font-size: 18px;">Achievements</b>
+
+        <ul style="margin-top: 16px; margin-bottom: 0; padding-left: 20px;">
+          <li style="font-size: 15px;">
+            K-디지털 트레이닝 JAVA 부트캠프 <b>은상</b> 수상
+          </li>
         </ul>
       </div>
     </td>
   </tr>
+
   <tr>
-    <td style="padding: 36px;">
-      <div style="margin-bottom: 24px;">
-        <a href="https://github.com/jongkwon0918/Caloric-Coach.git" style="font-size: 26px; font-weight: bold;">CaloricCoach</a> <span style="color: #666; font-size: 16px;">(2024.11 ~ 2025.06)</span>
+    <td style="padding: 40px 48px;">
+      <div style="margin-bottom: 28px;">
+        <a href="https://github.com/jongkwon0918/Caloric-Coach.git" style="font-size: 30px; font-weight: bold;">
+          CaloricCoach
+        </a>
+        <span style="color: #666; font-size: 16px;">(2024.11 ~ 2025.06)</span>
       </div>
-      <blockquote style="margin: 0 0 24px 0;"><p style="margin: 0; font-size: 15px;">AI 기반 모바일 헬스케어 애플리케이션</p></blockquote>
-      <div style="margin-top: 24px;">
-        <code>Java</code> <code>Flask</code> <code>YOLOv5/v8</code> <code>Firebase</code>
+
+      <blockquote style="margin: 0 0 28px 0; padding-left: 16px;">
+        <p style="margin: 0; font-size: 16px;">
+          AI 기반 모바일 헬스케어 애플리케이션
+        </p>
+      </blockquote>
+
+      <div style="margin-top: 28px; line-height: 2.2;">
+        <code>Java</code>
+        <code>Flask</code>
+        <code>YOLOv5/v8</code>
+        <code>Firebase</code>
       </div>
     </td>
   </tr>
