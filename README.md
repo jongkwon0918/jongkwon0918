@@ -22,12 +22,40 @@
 ---
 
 ### Main Projects
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **JAVAJAVA** | 실시간 경매 기반 중고거래 웹 플랫폼 | Java, Spring Boot, JPA, WebSocket .. |
-| **CaloricCoach** | AI 기반 모바일 헬스케어 애플리케이션 | Java, Flask, YOLOv5 / YOLOv8, Firebase .. |
-| **ZeroRisk** | KIS 모의투자 웹 플렛폼 | Java, Spring .. |
 
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/ZeroRisk-Project/ZeroRisk_BackEnd.git">ZeroRisk</a> <small>(2026.06 ~)</small></h3>
+      <blockquote>KIS 모의투자 웹 플랫폼</blockquote>
+      <p>
+        <code>Java</code> <code>Spring Boot</code> <code>Spring Security</code> <code>Oracle</code> <code>JPA</code> <code>Redis</code> <code>Spring Batch</code> <code>React</code> <code>TypeScript</code> <code>AWS EC2</code> <code>Docker</code> <code>Nginx</code> <code>GitHub Actions</code> <code>KIS Open API</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/jongkwon0918/JAVAJAVA_BackEnd.git">JAVAJAVA</a> <small>(2026.03 ~ 2026.05)</small></h3>
+      <blockquote>실시간 경매 기반 중고거래 웹 플랫폼</blockquote>
+      <p>
+        <code>Java</code> <code>Spring Boot</code> <code>JPA</code> <code>WebSocket</code> <code>Redis</code> <code>MySQL</code>
+      </p>
+      <b>Achievements</b>
+      <ul>
+        <li>K-디지털 트레이닝 JAVA 부트캠프 <b>은상</b> 수상</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/jongkwon0918/Caloric-Coach.git">CaloricCoach</a> <small>(2024.11 ~ 2025.06)</small></h3>
+      <blockquote>AI 기반 모바일 헬스케어 애플리케이션</blockquote>
+      <p>
+        <code>Java</code> <code>Flask</code> <code>YOLOv5/v8</code> <code>Firebase</code>
+      </p>
+    </td>
+  </tr>
+</table>
 ---
 
 ### Blog & Contact
@@ -44,41 +72,3 @@
 | SQLD | 한국데이터산업진흥원 |
 | ADsP | 한국데이터산업진흥원 |
 | 토익스피킹 | YBM |
-
-
-
-### 🚀 Main Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-[**JAVAJAVA**](https://github.com/jongkwon0918/JAVAJAVA_BackEnd.git) (2026.03 - 2026.05)
-<br>
->실시간 경매 기반 중고거래 웹 플랫폼
-
-`Java` `Spring Boot` `JPA` `WebSocket` `Redis` `MySQL`
-
-- K-디지털 트레이닝 JAVA 부트캠프 **은상** 수상
-
-</td>
-<td width="33%" valign="top">
-
-[**CaloricCoach**](https://github.com/jongkwon0918/Caloric-Coach.git) (2024.11 - 2025.06) 
-<br>
->AI 기반 모바일 헬스케어 애플리케이션
-
-`Java` `Flask` `YOLOv5/v8` `Firebase`
-
-</td>
-<td width="33%" valign="top">
-
-[**ZeroRisk**](https://github.com/ZeroRisk-Project/ZeroRisk_BackEnd.git) (2026.06 ~)
-<br>
->KIS 모의투자 웹 플랫폼
-
-`Java` `Spring Boot` `Spring Security` `Oracle` `JPA` `Redis` `Spring Batch` `React` `TypeScript` `AWS EC2` `Docker` `Nginx` `GitHub Actions` `KIS Open API`
-
-</td>
-</tr>
-</table>
