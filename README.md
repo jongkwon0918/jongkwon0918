@@ -3,31 +3,13 @@
 
 ---
 
-### Tech Stack
-#### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-#### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-#### Database
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-#### DevOps & Tools
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white)
-
----
-
 ### Main Projects
 
 <table width="100%">
   <tr>
     <td style="padding: 32px;">
       <div style="margin-bottom: 20px;">
-        <a href="https://github.com/ZeroRisk-Project/ZeroRisk_BackEnd.git" style="font-size: 24px; font-weight: bold;">ZeroRisk</a> <span style="color: #666;">(2026.06 ~)</span>
+        <a href="https://github.com/ZeroRisk-Project/ZeroRisk_BackEnd.git" style="font-size: 32px; font-weight: bold;">ZeroRisk</a> <span style="color: #666;">(2026.06 ~)</span>
       </div>
       <blockquote style="margin: 0 0 20px 0;"><p style="margin: 0; line-height: 1.6;">KIS 모의투자 웹 플랫폼</p></blockquote>
       <div>
@@ -41,7 +23,7 @@
   <tr>
     <td style="padding: 32px;">
       <div style="margin-bottom: 20px;">
-        <a href="https://github.com/jongkwon0918/JAVAJAVA_BackEnd.git" style="font-size: 24px; font-weight: bold;">JAVAJAVA</a> <span style="color: #666;">(2026.03 ~ 2026.05)</span>
+        <a href="https://github.com/jongkwon0918/JAVAJAVA_BackEnd.git" style="font-size: 32px; font-weight: bold;">JAVAJAVA</a> <span style="color: #666;">(2026.03 ~ 2026.05)</span>
       </div>
       <blockquote style="margin: 0 0 20px 0;"><p style="margin: 0; line-height: 1.6;">실시간 경매 기반 중고거래 웹 플랫폼</p></blockquote>
       <div style="margin-bottom: 24px;">
@@ -61,7 +43,7 @@
   <tr>
     <td style="padding: 32px;">
       <div style="margin-bottom: 20px;">
-        <a href="https://github.com/jongkwon0918/Caloric-Coach.git" style="font-size: 24px; font-weight: bold;">CaloricCoach</a> <span style="color: #666;">(2024.11 ~ 2025.06)</span>
+        <a href="https://github.com/jongkwon0918/Caloric-Coach.git" style="font-size: 32px; font-weight: bold;">CaloricCoach</a> <span style="color: #666;">(2024.11 ~ 2025.06)</span>
       </div>
       <blockquote style="margin: 0 0 20px 0;"><p style="margin: 0; line-height: 1.6;">AI 기반 모바일 헬스케어 애플리케이션</p></blockquote>
       <div>
@@ -70,6 +52,24 @@
     </td>
   </tr>
 </table>
+
+---
+
+### Tech Stack
+#### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+#### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+#### Database
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+#### DevOps & Tools
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white)
 
 ---
 
