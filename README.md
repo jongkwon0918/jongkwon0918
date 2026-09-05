@@ -6,7 +6,7 @@
 
 ### Main Projects
 
-## **[ZeroRisk](https://github.com/ZeroRisk-Project/ZeroRisk_BackEnd.git)** <sub>(2026.06 ~)</sub>
+### **[ZeroRisk](https://github.com/ZeroRisk-Project/ZeroRisk_BackEnd.git)** <sub>(2026.06 ~)</sub>
 
 > KIS 모의투자 웹 플랫폼
 
@@ -14,7 +14,7 @@
 
 <img src="https://dummyimage.com/1000x1/eaeaea/eaeaea" width="100%" height="1"/>
 
-## **[JAVAJAVA](https://github.com/jongkwon0918/JAVAJAVA_BackEnd.git)** <sub>(2026.03 ~ 2026.05)</sub>
+### **[JAVAJAVA](https://github.com/jongkwon0918/JAVAJAVA_BackEnd.git)** <sub>(2026.03 ~ 2026.05)</sub>
 
 > 실시간 경매 기반 중고거래 웹 플랫폼
 
@@ -25,7 +25,7 @@
 
 <img src="https://dummyimage.com/1000x1/eaeaea/eaeaea" width="100%" height="1"/>
 
-## **[CaloricCoach](https://github.com/jongkwon0918/Caloric-Coach.git)** <sub>(2024.11 ~ 2025.06)</sub>
+### **[CaloricCoach](https://github.com/jongkwon0918/Caloric-Coach.git)** <sub>(2024.11 ~ 2025.06)</sub>
 
 > AI 기반 모바일 헬스케어 애플리케이션
 
