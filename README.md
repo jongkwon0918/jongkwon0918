@@ -42,11 +42,6 @@
 ---
 
 ### Blog & Contact
-- **Velog**: https://velog.io/@whdrnjs0918
-- **Email**: whdrnjs0918@naver.com, dog49226@gmail.com
-- **Keywords**: #CleanCode  #ConstantLearning
-
----
-
-### Contribution Graph
-![Jongkwon's GitHub Contribution Grid Snap](https://github-readme-activity-graph.vercel.app/graph?username=jongkwon0918&theme=github-compact)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@whdrnjs0918)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dog49226@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:whdrnjs0918@naver.com)
