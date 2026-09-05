@@ -5,25 +5,15 @@
 
 ### Main Projects
 
-<table width="100%">
-  <tr>
-    <td>
-
-### [ZeroRisk](https://github.com/ZeroRisk-Project/ZeroRisk_BackEnd.git) <sub>(2026.06 ~)</sub>
+**[ZeroRisk](https://github.com/ZeroRisk-Project/ZeroRisk_BackEnd.git)** <sub>(2026.06 ~)</sub>
 
 > KIS 모의투자 웹 플랫폼
 
 `Java` `Spring Boot` `Spring Security` `Oracle` `JPA` `Redis` `Spring Batch` `React` `TypeScript` `AWS EC2` `Docker` `Nginx` `GitHub Actions` `KIS Open API`
 
-</td>
-  </tr>
-</table>
+---
 
-<table width="100%">
-  <tr>
-    <td>
-
-### [JAVAJAVA](https://github.com/jongkwon0918/JAVAJAVA_BackEnd.git) <sub>(2026.03 ~ 2026.05)</sub>
+**[JAVAJAVA](https://github.com/jongkwon0918/JAVAJAVA_BackEnd.git)** <sub>(2026.03 ~ 2026.05)</sub>
 
 > 실시간 경매 기반 중고거래 웹 플랫폼
 
@@ -32,23 +22,13 @@
 **Achievements**
 - K-디지털 트레이닝 JAVA 부트캠프 **은상** 수상
 
-</td>
-  </tr>
-</table>
+---
 
-<table width="100%">
-  <tr>
-    <td>
-
-### [CaloricCoach](https://github.com/jongkwon0918/Caloric-Coach.git) <sub>(2024.11 ~ 2025.06)</sub>
+**[CaloricCoach](https://github.com/jongkwon0918/Caloric-Coach.git)** <sub>(2024.11 ~ 2025.06)</sub>
 
 > AI 기반 모바일 헬스케어 애플리케이션
 
 `Java` `Flask` `YOLOv5/v8` `Firebase`
-
-</td>
-  </tr>
-</table>
 
 ---
 
