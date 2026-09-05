@@ -11,7 +11,7 @@
 
 `Java` `Spring Boot` `Spring Security` `Oracle` `JPA` `Redis` `Spring Batch` `React` `TypeScript` `AWS EC2` `Docker` `Nginx` `GitHub Actions` `KIS Open API`
 
----
+<img src="https://dummyimage.com/1000x1/eaeaea/eaeaea" width="100%" height="1"/>
 
 **[JAVAJAVA](https://github.com/jongkwon0918/JAVAJAVA_BackEnd.git)** <sub>(2026.03 ~ 2026.05)</sub>
 
@@ -22,7 +22,7 @@
 **Achievements**
 - K-디지털 트레이닝 JAVA 부트캠프 **은상** 수상
 
----
+<img src="https://dummyimage.com/1000x1/eaeaea/eaeaea" width="100%" height="1"/>
 
 **[CaloricCoach](https://github.com/jongkwon0918/Caloric-Coach.git)** <sub>(2024.11 ~ 2025.06)</sub>
 
