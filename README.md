@@ -49,39 +49,26 @@
 ### 🚀 Main Projects
 
 <table>
-<tr>
-<td width="33%" valign="top">
-
-**JAVAJAVA**
-***
-실시간 경매 기반 중고거래 웹 플랫폼
-
-`Java` `Spring Boot` `JPA` `WebSocket` `Redis` `MySQL`
-
-[🔗 Repo](링크)
-
-</td>
-<td width="33%" valign="top">
-
-**CaloricCoach**
-***
-AI 기반 모바일 헬스케어 애플리케이션
-
-`Java` `Flask` `YOLOv5/v8` `Firebase`
-
-[🔗 Repo](링크)
-
-</td>
-<td width="33%" valign="top">
-
-**ZeroRisk**
-***
-KIS 모의투자 웹 플랫폼
-
-`Java` `Spring Boot` `Spring Security` `Oracle` `JPA` `Redis` `Spring Batch` `React` `TypeScript` `AWS EC2` `Docker` `Nginx` `GitHub Actions` `KIS Open API`
-
-[🔗 Repo](링크)
-
-</td>
-</tr>
+  <tr>
+    <th width="33%" align="center"><b>JAVAJAVA</b></th>
+    <th width="33%" align="center"><b>CaloricCoach</b></th>
+    <th width="33%" align="center"><b>ZeroRisk</b></th>
+  </tr>
+  <tr>
+    <td valign="top">
+      실시간 경매 기반 중고거래 웹 플랫폼<br/><br/>
+      <code>Java</code> <code>Spring Boot</code> <code>JPA</code> <code>WebSocket</code> <code>Redis</code> <code>MySQL</code><br/><br/>
+      <a href="링크">🔗 Repo</a>
+    </td>
+    <td valign="top">
+      AI 기반 모바일 헬스케어 애플리케이션<br/><br/>
+      <code>Java</code> <code>Flask</code> <code>YOLOv5/v8</code> <code>Firebase</code><br/><br/>
+      <a href="링크">🔗 Repo</a>
+    </td>
+    <td valign="top">
+      KIS 모의투자 웹 플랫폼<br/><br/>
+      <code>Java</code> <code>Spring Boot</code> <code>Spring Security</code> <code>Oracle</code> <code>JPA</code> <code>Redis</code> <code>Spring Batch</code> <code>React</code> <code>TypeScript</code> <code>AWS EC2</code> <code>Docker</code> <code>Nginx</code> <code>GitHub Actions</code> <code>KIS Open API</code><br/><br/>
+      <a href="링크">🔗 Repo</a>
+    </td>
+  </tr>
 </table>
