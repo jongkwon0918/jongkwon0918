@@ -4,16 +4,16 @@
 ---
 
 ### Tech Stack
-## Backend
+#### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-## Frontend
+#### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-## Database
+#### Database
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-## DevOps & Tools
+#### DevOps & Tools
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -55,7 +55,7 @@
 
 [**JAVAJAVA**](https://github.com/jongkwon0918/JAVAJAVA_BackEnd.git) (2026.03 - 2026.05)
 <br>
-실시간 경매 기반 중고거래 웹 플랫폼
+>실시간 경매 기반 중고거래 웹 플랫폼
 
 `Java` `Spring Boot` `JPA` `WebSocket` `Redis` `MySQL`
 
@@ -66,7 +66,7 @@
 
 [**CaloricCoach**](https://github.com/jongkwon0918/Caloric-Coach.git) (2024.11 - 2025.06) 
 <br>
-AI 기반 모바일 헬스케어 애플리케이션
+>AI 기반 모바일 헬스케어 애플리케이션
 
 `Java` `Flask` `YOLOv5/v8` `Firebase`
 
@@ -75,7 +75,7 @@ AI 기반 모바일 헬스케어 애플리케이션
 
 [**ZeroRisk**](https://github.com/ZeroRisk-Project/ZeroRisk_BackEnd.git) (2026.06 ~)
 <br>
-KIS 모의투자 웹 플랫폼
+>KIS 모의투자 웹 플랫폼
 
 `Java` `Spring Boot` `Spring Security` `Oracle` `JPA` `Redis` `Spring Batch` `React` `TypeScript` `AWS EC2` `Docker` `Nginx` `GitHub Actions` `KIS Open API`
 
