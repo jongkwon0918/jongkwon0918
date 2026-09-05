@@ -42,6 +42,6 @@
 ---
 
 ### Blog & Contact
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@whdrnjs0918)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dog49226@gmail.com)
-[![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:whdrnjs0918@naver.com)
+[![Velog](https://img.shields.io/badge/Velog-white?style=for-the-badge&logo=velog&logoColor=20C997)](https://velog.io/@whdrnjs0918)
+[![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:dog49226@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-white?style=for-the-badge&logo=naver&logoColor=03C75A)](mailto:whdrnjs0918@naver.com)
