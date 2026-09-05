@@ -23,9 +23,9 @@
 
 ### Main Projects
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td style="padding: 20px;">
       <h3><a href="https://github.com/ZeroRisk-Project/ZeroRisk_BackEnd.git">ZeroRisk</a> <small>(2026.06 ~)</small></h3>
       <blockquote>KIS 모의투자 웹 플랫폼</blockquote>
       <p>
@@ -34,7 +34,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="padding: 20px;">
       <h3><a href="https://github.com/jongkwon0918/JAVAJAVA_BackEnd.git">JAVAJAVA</a> <small>(2026.03 ~ 2026.05)</small></h3>
       <blockquote>실시간 경매 기반 중고거래 웹 플랫폼</blockquote>
       <p>
@@ -47,7 +47,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="padding: 20px;">
       <h3><a href="https://github.com/jongkwon0918/Caloric-Coach.git">CaloricCoach</a> <small>(2024.11 ~ 2025.06)</small></h3>
       <blockquote>AI 기반 모바일 헬스케어 애플리케이션</blockquote>
       <p>
@@ -56,6 +56,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ### Blog & Contact
