@@ -5,7 +5,7 @@
 
 ### Main Projects
 
-### **[ZeroRisk](https://github.com/ZeroRisk-Project/ZeroRisk_BackEnd.git)** <sub>(2026.06 ~)</sub>
+### **[ZeroRisk](https://github.com/ZeroRisk-Project/ZeroRisk_BackEnd.git)** <sub>(2026.06 ~ 2026.09)</sub>
 
 > KIS 모의투자 웹 플랫폼
 
