@@ -1,8 +1,6 @@
 # 👋 안녕하십니까! 저는 박종권 입니다.<br>
 <br>**백엔드 개발자**를 꿈꾸며, 기능 구현을 넘어 **안정적이고 효율적인 시스템**을 고민하고 있습니다. <br><br>
 
-👉 **[📄 상세 포트폴리오 PDF 보러가기](https://github.com/jongkwon0918/portfolio/blob/main/%EB%B0%95%EC%A2%85%EA%B6%8C_Portfolio.pdf)** <br><br>
-
 ---
 
 ### Main Projects
@@ -60,10 +58,12 @@
 
 
 ### Blog & Contact
-| Velog | Portfolio PDF | Gmail | Naver |
-|:---:|:---:|:---:|:---:|
-| [<img src="https://velog.io/favicon.ico" width="30"/>](https://velog.io/@whdrnjs0918) | [<img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="30"/>](https://github.com/jongkwon0918/portfolio/blob/main/%EB%B0%95%EC%A2%85%EC%A2%85%EC%9D%80_Portfolio.pdf) | [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>](mailto:dog49226@gmail.com) | [<img src="https://www.google.com/s2/favicons?domain=naver.com&sz=64" width="30"/>](mailto:whdrnjs0918@naver.com) |
-| [Velog](https://velog.io/@whdrnjs0918) | [Portfolio PDF](https://github.com/jongkwon0918/portfolio/blob/main/%EB%B0%95%EC%A2%85%EA%B6%8C_Portfolio.pdf) | dog49226@gmail.com | whdrnjs0918@naver.com |
+| 채널 / 서비스 | 연결 주소 및 링크 |
+|:---:|:---|
+| [![Velog](https://velog.io/favicon.ico" width="20"/> **Velog**](https://velog.io/@whdrnjs0918) | [https://velog.io/@whdrnjs0918](https://velog.io/@whdrnjs0918) |
+| [![Portfolio](https://cdn-icons-png.flaticon.com/512/337/337946.png" width="20"/> **Portfolio PDF**](https://github.com/jongkwon0918/portfolio/blob/main/%EB%B0%95%EC%A2%85%EA%B6%8C_Portfolio.pdf) | [포트폴리오 파일 바로보기](https://github.com/jongkwon0918/portfolio/blob/main/%EB%B0%95%EC%A2%85%EA%B6%8C_Portfolio.pdf) |
+| [![Gmail](https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> **Gmail**](mailto:dog49226@gmail.com) | dog49226@gmail.com |
+| [![Naver](https://www.google.com/s2/favicons?domain=naver.com&sz=64" width="20"/> **Naver Mail**](mailto:whdrnjs0918@naver.com) | whdrnjs0918@naver.com |
 
 ---
 
