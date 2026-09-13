@@ -53,7 +53,7 @@
 ### Blog & Contact
 | Velog | Portfolio |
 |:---:|:---:|
-| [<img src="https://velog.io/favicon.ico" width="30"/>](https://velog.io/@whdrnjs0918) | [<img src="[https://cdn-icons-png.flaticon.com/512/732/732200.png](https://cdn-icons-png.flaticon.com/512/337/337946.png)" width="30"/>](https://github.com/jongkwon0918/portfolio/blob/main/%EB%B0%95%EC%A2%85%EA%B6%8C_Portfolio.pdf) |
+| [<img src="https://velog.io/favicon.ico" width="30"/>](https://velog.io/@whdrnjs0918) | [<img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="30"/>](https://github.com/jongkwon0918/portfolio/blob/main/%EB%B0%95%EC%A2%85%EA%B6%8C_Portfolio.pdf) |
 
 ---
 
