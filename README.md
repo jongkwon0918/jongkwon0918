@@ -1,6 +1,8 @@
 # 👋 안녕하십니까! 저는 박종권 입니다.<br>
 <br>**백엔드 개발자**를 꿈꾸며, 기능 구현을 넘어 **안정적이고 효율적인 시스템**을 고민하고 있습니다. <br><br>
 
+[![Portfolio PDF](https://img.shields.io/badge/PDF_Portfolio-View%20%2F%20Download-007EC6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/jongkwon0918/portfolio/blob/main/%EB%B0%95%EC%A2%85%EA%B6%8C_Portfolio.pdf)
+
 ---
 
 ### Main Projects
