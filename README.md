@@ -58,11 +58,11 @@
 
 ### Blog & Contact
 | Platform / Contact | Link |
-|:---:|---|
-| <img src="https://velog.io/favicon.ico" width="30"/> **Velog** | [velog.io/@whdrnjs0918](https://velog.io/@whdrnjs0918) |
-| <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="30"/> **Portfolio PDF** | [View PDF](https://github.com/jongkwon0918/portfolio/blob/main/%EB%B0%95%EC%A2%85%EA%B6%8C_Portfolio.pdf) |
-| <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/> **Gmail** | [dog49226@gmail.com](mailto:dog49226@gmail.com) |
-| <img src="https://www.google.com/s2/favicons?domain=naver.com&sz=64" width="30"/> **Naver Mail** | [whdrnjs0918@naver.com](mailto:whdrnjs0918@naver.com) |
+|:---|---|
+| <div align="left"><img src="https://velog.io/favicon.ico" width="30" align="middle"/> &nbsp; **Velog**</div> | [velog.io/@whdrnjs0918](https://velog.io/@whdrnjs0918) |
+| <div align="left"><img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="30" align="middle"/> &nbsp; **Portfolio PDF**</div> | [View PDF](https://github.com/jongkwon0918/portfolio/blob/main/%EB%B0%95%EC%A2%85%EA%B6%8C_Portfolio.pdf) |
+| <div align="left"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" align="middle"/> &nbsp; **Gmail**</div> | dog49226@gmail.com |
+| <div align="left"><img src="https://www.google.com/s2/favicons?domain=naver.com&sz=64" width="30" align="middle"/> &nbsp; **Naver Mail**</div> | whdrnjs0918@naver.com |
 
 ---
 
