@@ -58,10 +58,13 @@
 | [<img src="https://velog.io/favicon.ico" width="30"/>](https://velog.io/@whdrnjs0918) | [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>](mailto:dog49226@gmail.com) | [<img src="https://www.google.com/s2/favicons?domain=naver.com&sz=64" width="30"/>](mailto:whdrnjs0918@naver.com) |
 
 
-### Blog & Contact & Portfolio
+
+### Blog & Contact
 | Velog | Portfolio PDF | Gmail | Naver |
 |:---:|:---:|:---:|:---:|
-| [<img src="https://velog.io/favicon.ico" width="30"/>](https://velog.io/@whdrnjs0918) | [<img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="30"/>](https://github.com/jongkwon0918/portfolio/blob/main/%EB%B0%95%EC%A2%85%EA%B6%8C_Portfolio.pdf) | [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>](mailto:dog49226@gmail.com) | [<img src="https://www.google.com/s2/favicons?domain=naver.com&sz=64" width="30"/>](mailto:whdrnjs0918@naver.com) |
+| [<img src="https://velog.io/favicon.ico" width="30"/>](https://velog.io/@whdrnjs0918) | [<img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="30"/>](https://github.com/jongkwon0918/portfolio/blob/main/%EB%B0%95%EC%A2%85%EC%A2%85%EC%9D%80_Portfolio.pdf) | [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>](mailto:dog49226@gmail.com) | [<img src="https://www.google.com/s2/favicons?domain=naver.com&sz=64" width="30"/>](mailto:whdrnjs0918@naver.com) |
+| [Velog](https://velog.io/@whdrnjs0918) | [Portfolio PDF](https://github.com/jongkwon0918/portfolio/blob/main/%EB%B0%95%EC%A2%85%EA%B6%8C_Portfolio.pdf) | dog49226@gmail.com | whdrnjs0918@naver.com |
+
 ---
 
 ### Certifications
