@@ -21,7 +21,7 @@
 
 > 실시간 경매 기반 중고거래 웹 플랫폼
 
-`Java` `Spring Boot` `JPA` `WebSocket` `Redis` `MySQL`
+`Java` `Spring Boot` `JPA` `WebSocket` `Redis` `Oracle`
 
 **Achievements**
 - K-디지털 트레이닝 JAVA 부트캠프 **은상** 수상
