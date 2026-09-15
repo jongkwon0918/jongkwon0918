@@ -3,7 +3,7 @@
 
 | Velog | Portfolio | Notion |
 |:---:|:---:|:---:|
-| [<img src="https://velog.io/favicon.ico" width="30"/>](https://velog.io/@whdrnjs0918) | [<img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="30"/>](https://github.com/jongkwon0918/portfolio/blob/main/%EB%B0%95%EC%A2%85%EA%B6%8C_Portfolio.pdf) | [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](여기에_노션_링크_주소_입력) |
+| [<img src="https://velog.io/favicon.ico" width="30"/>](https://velog.io/@whdrnjs0918) | [<img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="30"/>](https://github.com/jongkwon0918/portfolio/blob/main/%EB%B0%95%EC%A2%85%EA%B6%8C_Portfolio.pdf) | [<img src="https://velog.io/favicon.ico" width="30"/>](여기에_노션_링크_주소_입력) |
 
 ---
 
@@ -11,7 +11,7 @@
 
 ### **[ZeroRisk](https://github.com/ZeroRisk-Project/ZeroRisk_BackEnd.git)** <sub>(2026.06 ~ 2026.09)</sub>
 
-> KIS 모의투자 웹 플랫폼
+> KIS 모의투자 기반 주식 학습 및 대회 웹 플랫폼
 
 `Java` `Spring Boot` `Spring Security` `Oracle` `JPA` `Redis` `Spring Batch` `React` `TypeScript` `AWS EC2` `Docker` `Nginx` `GitHub Actions` `KIS Open API`
 
@@ -21,7 +21,7 @@
 
 > 실시간 경매 기반 중고거래 웹 플랫폼
 
-`Java` `Spring Boot` `JPA` `WebSocket` `Redis` `Oracle` `Gradle` `React 19` `TypeScript` `Vite` `Tailwind CSS` `WebSocket` `STOMP` `SSE` `Docker` `Nginx` `GitHub Actions` `PortOne` `Gmail SMTP` `Kakao API`
+`Java` `Spring Boot` `JPA` `WebSocket` `Redis` `Oracle` `Gradle` `React` `TypeScript` `Vite` `Tailwind CSS` `WebSocket` `STOMP` `SSE` `Docker` `Nginx` `GitHub Actions` `PortOne` `Gmail SMTP` `Kakao API`
 
 **Achievements**
 - K-디지털 트레이닝 JAVA 부트캠프 **은상** 수상
