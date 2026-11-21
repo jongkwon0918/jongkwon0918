@@ -40,8 +40,9 @@
 
 ### **[RippleMap](https://github.com/cheongdo-vibe-2026/cheongdo-hackathon.git)** <sub>청도 바이브코딩 해커톤 · (2026.11.05)</sub>
 
-> AI 변경 영향 분석 프로젝트입니다. 요구사항이 바뀌면 기획서와 작업 목록에서 다시 검토할 문장을 찾고,<br>
-> 담당자가 원문 근거와 수정안을 함께 확인하도록 설계했습니다.
+> AI 변경 영향 분석 웹 플랫폼
+
+요구사항이 바뀌면 기획서와 작업 목록에서 다시 검토할 문장을 찾고, 담당자가 원문 근거와 수정안을 함께 확인하도록 설계
 
 `GitHub Copilot` `Microsoft Azure`
 
